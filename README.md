@@ -6,7 +6,7 @@ My name is Thales, I graduated from the [Federal University of Rio Grande - FURG
 
 - ⚙️ I use daily: `.kt`, `.scala`, `.ts`.
 - 🌱 Learning all about **Kotlin**
-- 💬 Ping me about **backend**, **Kotlin**, **Scala**, **Development**, **History and Sociology**
+- 💬 Ping me about **backend**, **Kotlin**, **Scala**, **Development**
 - 📫 Reach me: [twitter.com/thales_dev](https://twitter.com/eudetim)
 - ⚡️ Fun fact: Although I'm an exact science and started programming at an early age, my favorite subject in school has always been history.
 
